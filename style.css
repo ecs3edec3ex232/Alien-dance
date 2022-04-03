@@ -1,0 +1,36 @@
+body{
+    font-family: 'Architects Daughter', cursive;
+    font-weight:900;
+    text-shadow: 5px 5px 5px black;
+    letter-spacing: 2.5px;
+}
+
+.main-div{
+ 
+    background-color: rgb(255, 211, 218);
+    height: 700px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+.header_div{
+   
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.header_div p{
+    font-size: 14px;
+}
+.note{
+    color: tomato;
+    
+}
+.copy_right_footer{
+color: rgb(0, 0, 0);
+position: fixed;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+line-height: 3;
+text-align: center; 
+text-shadow: 5px 5px 5px black;
+}
